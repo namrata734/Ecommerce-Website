@@ -1,0 +1,118 @@
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Montserrat-bold, sans-serif';
+  line-height: 1.5;
+  font-weight: bold;
+}
+h1{
+  font-size: 3.5rem;
+}
+h2{
+  font-size: 2rem;
+}
+h3{
+  font-size: 1.5rem;
+}
+
+button{
+  margin: 3% 3% 0% 0%;
+}
+/* title */
+
+#title{
+  background-color: #f4abc4;
+}
+.navbar-brand{
+  font-family: 'Montserrat';
+  font-size: 2rem;
+  font-weight: bold;
+}
+.navbar{
+  padding-bottom: 5%;
+}
+.nav-item{
+  padding: 3%;
+}
+.container-fluid{
+  padding: 2% 7%;
+}
+.dropdown-item, p{
+  color: #BFBFBF;
+}
+.saleimg{
+  width: 500px;
+}
+
+
+/* Trending */
+
+#Trending{
+  text-align:center;
+}
+/* dresses */
+#dresses{
+  padding: 2% 10%;
+  text-align: center;
+  background-color: #f3bad6;
+}
+.dress{
+  width:350px;
+}
+.dresses-head{
+  color:#fff;
+  padding-bottom:2%;
+}
+.dress-card-img-top {
+  width:100%;
+  border-radius: 7px 7px 0 0;
+}
+
+.dress-card-body {
+  padding:1rem;
+  background: #fff;
+  border-radius: 0 0 7px 7px;
+}
+
+.dress-card-title {
+  line-height: 0.5rem;
+}
+
+.dress-card-crossed {
+  text-decoration: line-through;
+  color: #000000;
+}
+
+.dress-card-price {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #000000;
+}
+
+.dress-card-off {
+  color:  #f4abc4;
+}
+.cartbtn{
+  margin: 0%;
+  padding: 5%
+}
+
+/* sell */
+
+#sell{
+  text-align: center;
+  line-height: 1;
+  padding: 2% 10%;
+}
+/* footer */
+
+#footer{
+  text-align: center;
+  line-height: 1.5;
+  padding: 2% 10%;
+  background-color: #f4abc4;
+}
+.icon{
+  padding: 2% 1%;
+}
+.footer-para{
+  color: #000000;
+}
